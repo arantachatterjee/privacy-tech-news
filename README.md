@@ -1,4 +1,6 @@
-Check out http://privacytechnews.com.
+This repository points to a public content website I created in 2016 as part of a behavioural research-oriented project aimed at tracking visitor activity on the content website. The site has Google Analytics enabled and tracks all things that Google Analytics won't track for you (using PHP and plain old fashioned JavaScript). Collected data is stored in MySQL for further analysis.
+
+Check out http://privacytechnews.com here:
 
 ![Home Page Preview](PrivacyTechNews-HomePage.png)
 
